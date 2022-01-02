@@ -16,7 +16,7 @@ public class ConstWithThisKeyword {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		ConstWithThisKeyword obj = new ConstWithThisKeyword(10,"Tom");
+		ConstWithThisKeyword obj = new ConstWithThisKeyword(10,"TomNJerry");
 		
 
 	}
